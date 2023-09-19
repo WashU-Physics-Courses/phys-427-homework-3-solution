@@ -1,0 +1,5 @@
+th_max = 0.01 * pi: t/t0 = 1.00006
+th_max = 0.1 * pi: t/t0 = 1.0062
+th_max = pi / 6: t/t0 = 1.01741
+th_max = pi / 3: t/t0 = 1.07318
+th_max = pi / 2: t/t0 = 1.18034
